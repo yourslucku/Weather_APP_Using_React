@@ -1,0 +1,30 @@
+.App{
+  background-color: aliceblue;
+}
+.search-bar {
+  display: flex;
+  align-items: center; 
+}
+
+.search-bar > * {
+  margin-right: 10px; 
+}
+
+
+.recent-searches {
+  .recent-searches {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ddd; 
+    border-radius: 5px; 
+  }
+  
+}
+
+.recent-search-item {
+  background-color: #eee;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 5px; 
+}
+
